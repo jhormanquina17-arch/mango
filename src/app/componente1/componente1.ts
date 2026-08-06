@@ -9,3 +9,34 @@ import { Component } from '@angular/core';
 export class Componente1 {
 
 }
+//sdfsdfsdfsdf sdfsdfsdf
+//SVGDefsElementdf
+//sdfsdfsdfsdfsdf
+//sdf
+//sd
+//FileSystemdf
+//sdfsdfsdfsdfygkfyuk,muyfdkmytmkytkmjyttskty
+//rysktyktydktydktk
+
+///dfgbfdfdhb
+//hjkfhgjkfhgkjf
+///hgjfghj
+//gfhfgh
+//jhkhjk
+//hjlhk
+//gljl
+//guiolgui
+//fyuifyul
+//giuliugñl
+//trhjrxt
+//ztrjrtyk
+//tjztrj
+
+
+///dasfdsagfdag
+///fdsgfdshsr
+//dfghsfghg
+//gfhdgfhjdt
+
+//asdasdas
+//asdas
