@@ -59,4 +59,3 @@ export class Componente3 {
 
 
 //ncofdhaifhaodfhdfhifidhfdhfdfgsfdhgdfhdfdhfdhfbdj
-s
