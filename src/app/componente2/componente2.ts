@@ -19,3 +19,10 @@ export class Componente2 {
 //lksdchkleufhiulegfuEUFGGHJDGSAHH S 
 
 
+//kjsdjsjdbcjhb<djcbsdjcbjesdcjhvwdchjewfhwevcjhwejwej {9q9EWVLA{ALETIBKLÑWM<SBPÑ
+// DDDD
+// L}
+
+//////DDDD
+//}
+//DSJHAVJHSJJHSD
