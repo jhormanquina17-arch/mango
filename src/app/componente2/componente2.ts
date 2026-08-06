@@ -9,3 +9,20 @@ import { Component } from '@angular/core';
 export class Componente2 {
 
 }
+
+//asdasdasdasdasdadahdhaduaduagduygasdugauysdgauysdgjbxca sHW
+
+
+///JFWEJKF  WE  QWDIH ÑQDLKJ  NSDKJDWNCKEWCBIWEY8PV8LI VÑ ñlkti
+//DCAEUGEJJBECJBAcbkEBCKEuewiue
+
+//lksdchkleufhiulegfuEUFGGHJDGSAHH S 
+
+
+//kjsdjsjdbcjhb<djcbsdjcbjesdcjhvwdchjewfhwevcjhwejwej {9q9EWVLA{ALETIBKLÑWM<SBPÑ
+// DDDD
+// L}
+
+//////DDDD
+//}
+//DSJHAVJHSJJHSD
