@@ -31,3 +31,9 @@ export class Componente1 {
 //trhjrxt
 //ztrjrtyk
 //tjztrj
+
+
+///dasfdsagfdag
+///fdsgfdshsr
+//dfghsfghg
+//gfhdgfhjdt
